@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "Neoservices",
+  "short_name": "Neoservices",
+  "version": "com.daljo25.neoservices",
+  "description": "App oficial de Neoservices.com.ve y Neoservices.cl",
+  "author": "Daljo25",
+  "icons": [],
+  "start_url": "index.html"
+}
