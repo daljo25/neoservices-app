@@ -36,6 +36,9 @@
     },
     "cordova-plugin-vibration": {
       "PACKAGE_NAME": "com.daljo25.neoservices"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "com.daljo25.neoservices"
     }
   },
   "dependent_plugins": {

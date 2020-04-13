@@ -24,13 +24,16 @@
       "cordova-plugin-globalization": {},
       "cordova-plugin-inappbrowser": {},
       "cordova-plugin-network-information": {},
-      "cordova-plugin-vibration": {}
+      "cordova-plugin-vibration": {},
+      "cordova-plugin-splashscreen": {}
     },
     "platforms": [
       "android"
     ]
   },
   "dependencies": {
-    "cordova-plugin-compat": "^1.2.0"
+    "cordova-android": "^8.1.0",
+    "cordova-plugin-compat": "^1.2.0",
+    "cordova-plugin-splashscreen": "git+https://github.com/apache/cordova-plugin-splashscreen.git"
   }
 }
